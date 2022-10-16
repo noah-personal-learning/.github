@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+개인 학습용 프로젝트 분리를 위한 Organization 입니다.
+
 <!--
 
 **Here are some ideas to get you started:**
