@@ -1,7 +1,7 @@
 ## Hi there 👋
 🧸🪁🧃🦄🔫🥺🏰🎠✨🚂🍬🎡
 
-개인 학습용 프로젝트 분리를 위한 <b>'Play Ground'</b> Organization 입니다.
+개인 학습용 프로젝트 분리를 위해 만들어진 <b>'Play Ground'</b> Organization 입니다.
 
 🎢🎪🏂🏂🏂🏂🏂😂🕹️🎢🎮🃏🎲🎡 
 
